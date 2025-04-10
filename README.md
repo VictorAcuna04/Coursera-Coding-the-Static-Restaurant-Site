@@ -44,7 +44,7 @@ The goal of this assignment was to create a responsive website for a fictional r
 
 ## How to View
 
-This site is hosted using GitHub Pages at: [YOUR_GITHUB_PAGES_URL_HERE]
+This site is hosted using GitHub Pages at: (https://victoracuna04.github.io/Coursera-Coding-the-Static-Restaurant-Site/)
 
 ## Course Information
 
